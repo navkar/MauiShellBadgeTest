@@ -6,5 +6,5 @@ Sample application for icon badges for iOS and Android using code converted from
 
 ## screenshots
 
-[1](https://github.com/navkar/MauiShellBadgeTest/blob/main/screenshots/tabs1.jpg)
+![1.](https://github.com/navkar/MauiShellBadgeTest/blob/main/screenshots/tabs1.jpg)
 
